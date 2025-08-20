@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-public/readme/","tags":["gardenEntry"],"created":"2024-11-05T20:24:18.792+09:00","updated":"2025-08-20T13:39:15.806+09:00"}
+{"dg-publish":true,"permalink":"/000-public/readme/","tags":["gardenEntry"],"created":"2024-11-05T20:24:18.792+09:00","updated":"2025-08-20T14:08:28.628+09:00"}
 ---
 
 
@@ -12,7 +12,7 @@
 
 - What to do
 	- 프로그래밍 언어
-		- Python
+		- [[000_public/Analysis/Python\|Python]]
 		- R
 		- Java
 		- Scala
@@ -20,11 +20,11 @@
 		- Golang
 		- 
 	- 기계학습 모델링 도구
-		- Python
+		- [[000_public/Analysis/Python\|Python]]
 			- TensorFlow
 			- Keras
 			- PyTorch
-			- [[000_public/scikit-learn\|scikit-learn]]
+			- [[000_public/Analysis/scikit-learn\|scikit-learn]]
 			- Spark ML
 	- 데이터 분석 패키지
 		- SAS
@@ -45,11 +45,7 @@
 - RAG
 
 - Analysis
-	- [[000_public/Encoding\|Encoding]]
-		- Categorical Data
-		- Ordinal 
-		- Nominal
-		- 
+	- [[000_public/Analysis/Encoding\|Encoding]]
 
 - 
 ```
