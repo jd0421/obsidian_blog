@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-public/readme/","tags":["gardenEntry"],"created":"2024-11-05T20:24:18.792+09:00","updated":"2025-08-20T12:41:31.676+09:00"}
+{"dg-publish":true,"permalink":"/000-public/readme/","tags":["gardenEntry"],"created":"2024-11-05T20:24:18.792+09:00","updated":"2025-08-20T13:39:15.806+09:00"}
 ---
 
 
@@ -21,10 +21,10 @@
 		- 
 	- 기계학습 모델링 도구
 		- Python
-			- TensorFlpw
+			- TensorFlow
 			- Keras
 			- PyTorch
-			- scikit-learn
+			- [[000_public/scikit-learn\|scikit-learn]]
 			- Spark ML
 	- 데이터 분석 패키지
 		- SAS
@@ -44,9 +44,47 @@
 - LLM
 - RAG
 
+- Analysis
+	- [[000_public/Encoding\|Encoding]]
+		- Categorical Data
+		- Ordinal 
+		- Nominal
+		- 
 
+- 
 ```
+- 산업군
+	- EDA
+	- 분포에 대한 이해
+	- 데이터의 종류
+	- 문제 정의
+	- 전처리 
+	- 모델링 투입
+	- 모델링 결과에 대한 해석
+	- 솔루션 제시
+
+- 분석 방법
+	- 서비스 분석 모델
+	- FUNNEL
+	- AARRR FUNNEL
+	- Cohort
+	- ABT 
+
+- 대시보딩, 시각화
+	- Power BI
+	- Tableau
+	- Spotfire
+	- LookerStudio
+	- Redash, Redshift 
 
 ```
 	
 
+
+```
+- 얻어 걸렸다 등 요행을 바라지 말기
+- 고성능 딜레마에 빠지지 말 것, 고점 저점을 두지 말기
+- 상황을 원망하지 말고 더 부족한건 없었는지 확인하기
+- 읽는 사람을 배려하기
+
+```
