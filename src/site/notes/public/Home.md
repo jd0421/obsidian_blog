@@ -1,13 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/public/home/","tags":["gardenEntry"],"created":"2024-11-05T20:24:18.792+09:00","updated":"2025-08-21T11:17:21.826+09:00"}
+{"dg-publish":true,"permalink":"/public/home/","tags":["gardenEntry"],"created":"2024-11-05T20:24:18.792+09:00","updated":"2025-08-21T12:14:45.515+09:00"}
 ---
 
+# Table of Contents
+- [[public/Analysis/Analysis\|Analysis]]
+- [[public/DBMS/DBMS\|DBMS]]
+- [[public/Blog/Blog\|Blog]]
+- [[public/Dev/Dev\|Dev]]
+- [[public/Dev/Data/Data\|DATA]]
 
-
-
-- Profile
-	- GITHUB :  [https://github.com/jd0421/Project](https://github.com/jd0421/Project)
-	- TABLEAU :  [https://public.tableau.com/app/profile/alex.noh6655/vizzes](https://public.tableau.com/app/profile/alex.noh6655/vizzes)
+# Profile
+- [Github](https://github.com/jd0421/Project)
+- [Tableau](https://public.tableau.com/app/profile/alex.noh6655/vizzes)
 	
 
 - What to do
@@ -44,11 +48,6 @@
 - LLM
 - RAG
 
-- Analysis
-	- [[public/Analysis/Encoding\|Encoding]]
-
-- [[public/DBMS/DBMS\|DBMS]]
-- [[public/Blog/Blog\|Blog]]
 
 ```
 - 산업군
