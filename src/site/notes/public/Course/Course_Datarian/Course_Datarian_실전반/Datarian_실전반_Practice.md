@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/course/course-datarian/course-datarian/datarian-practice/","created":"2025-08-29T11:58:20.746+09:00","updated":"2025-08-29T16:52:17.698+09:00"}
+{"dg-publish":true,"permalink":"/public/course/course-datarian/course-datarian/datarian-practice/","created":"2025-08-29T11:58:20.746+09:00","updated":"2025-08-29T17:00:05.803+09:00"}
 ---
 
 
@@ -9,25 +9,25 @@
 - [[public/Course/Course_Datarian/Course_Datarian_실전반/Datarian_실전반_평균_구매_주기_계산하기\|Datarian_실전반_평균_구매_주기_계산하기]] * 다시*
 
 - [[public/Course/Course_Datarian/Course_Datarian_실전반/Datarian_실전반_첫_주문과_마지막_주문\|Datarian_실전반_첫_주문과_마지막_주문]]
-- [[public/Course/Course_Datarian/Datarian_실전반_많이 주문한 테이블 찾기\|Datarian_실전반_많이 주문한 테이블 찾기]]
-- [[public/Course/Course_Datarian/Datarian_실전반_레스토랑의 일일 평균 매출액 구하기\|Datarian_실전반_레스토랑의 일일 평균 매출액 구하기]]
-- [[public/Course/Course_Datarian/Course_Datarian_입문반/Datarian_입문반_제목이 모음으로 시작하지 않는 단편 영화\|Datarian_입문반_제목이 모음으로 시작하지 않는 단편 영화]]
-- [[public/Course/Course_Datarian/Datarian_실전반_서울북부지방법원 따릉이 정류소\|Datarian_실전반_서울북부지방법원 따릉이 정류소]]
-- [[public/Course/Course_Datarian/Datarian_실전반_레스토라의 대목\|Datarian_실전반_레스토라의 대목]]
-- [[public/Course/Course_Datarian/Datarian_실전반_레스토랑의 요일별 VIP\|Datarian_실전반_레스토랑의 요일별 VIP]]
-- [[public/Course/Course_Datarian/Datarian_실전반_고액 영수증 찾기\|Datarian_실전반_고액 영수증 찾기]]
-- [[public/Course/Course_Datarian/Datarian_실전반_다음날도 서울숲의 미세먼지 농도는 나쁨\|Datarian_실전반_다음날도 서울숲의 미세먼지 농도는 나쁨]]
+- [[public/Course/Course_Datarian/Course_Datarian_실전반/Datarian_실전반_많이 주문한 테이블 찾기\|Datarian_실전반_많이 주문한 테이블 찾기]]
+- [[public/Course/Course_Datarian/Course_Datarian_실전반/Datarian_실전반_레스토랑의 일일 평균 매출액 구하기\|Datarian_실전반_레스토랑의 일일 평균 매출액 구하기]]
+- [[public/Course/Course_Datarian/Course_Datarian_입문반/Course_Datarian_입문반_Practice/Datarian_입문반_제목이 모음으로 시작하지 않는 단편 영화\|Datarian_입문반_제목이 모음으로 시작하지 않는 단편 영화]]
+- [[public/Course/Course_Datarian/Course_Datarian_실전반/Datarian_실전반_서울북부지방법원 따릉이 정류소\|Datarian_실전반_서울북부지방법원 따릉이 정류소]]
+- [[public/Course/Course_Datarian/Course_Datarian_실전반/Datarian_실전반_레스토라의 대목\|Datarian_실전반_레스토라의 대목]]
+- [[public/Course/Course_Datarian/Course_Datarian_실전반/Datarian_실전반_레스토랑의 요일별 VIP\|Datarian_실전반_레스토랑의 요일별 VIP]]
+- [[public/Course/Course_Datarian/Course_Datarian_실전반/Datarian_실전반_고액_영수증_찾기\|Datarian_실전반_고액_영수증_찾기]]
+- [[public/Course/Course_Datarian/Course_Datarian_실전반/Datarian_실전반_다음날도_서울숲의_미세먼지_농도는_나쁨\|Datarian_실전반_다음날도_서울숲의_미세먼지_농도는_나쁨]]
 
 - 배송 예정일 예측 성공과 실패 
 - 
 
 
-- [[public/Course/Course_Datarian/Datarian_실전반_월별 주문 리텐션 (클래식 리텐션)\|Datarian_실전반_월별 주문 리텐션 (클래식 리텐션)]] #Retention 
+- [[public/Course/Course_Datarian/Course_Datarian_실전반/Datarian_실전반_월별 주문 리텐션 (클래식 리텐션)\|Datarian_실전반_월별 주문 리텐션 (클래식 리텐션)]] #Retention 
 	- 어떤 이벤트를 기준으로 할 것인가?
-- [[public/Course/Course_Datarian/Datarian_실전반_온라인 쇼핑몰의 Stickiness\|Datarian_실전반_온라인 쇼핑몰의 Stickiness]] #DAU #MAU
+- [[public/Course/Course_Datarian/Course_Datarian_실전반/Datarian_실전반_온라인 쇼핑몰의 Stickiness\|Datarian_실전반_온라인 쇼핑몰의 Stickiness]] #DAU #MAU
 - 월별 주문 리텐션 (롤링 리텐션)
-- [[public/Course/Course_Datarian/Datarian_실전반_입문 페이지를 본 세션 찾기\|Datarian_실전반_입문 페이지를 본 세션 찾기]] #Session
-- [[public/Course/Course_Datarian/Datarian_실전반_페이지에서 스크롤을 내렸을까\|Datarian_실전반_페이지에서 스크롤을 내렸을까]] #Session 
+- [[public/Course/Course_Datarian/Course_Datarian_실전반/Datarian_실전반_입문 페이지를 본 세션 찾기\|Datarian_실전반_입문 페이지를 본 세션 찾기]] #Session
+- [[public/Course/Course_Datarian/Course_Datarian_실전반/Datarian_실전반_페이지에서 스크롤을 내렸을까\|Datarian_실전반_페이지에서 스크롤을 내렸을까]] #Session 
 - 레스토랑 요일 별 구매금액 TOP3 영수증
 - 온라인 쇼핑몰 고객 첫 구매 후 일별 재구매 비율 분석
 - SQL 데이터 분석 캠프 실전반 전환율
