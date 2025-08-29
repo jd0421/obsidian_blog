@@ -3,9 +3,9 @@
 ---
 
 - https://datarian.io/
-	- [[public/Course/Course_Datarian/Datarian_입문반\|Datarian_입문반]]
-	- [[public/Course/Course_Datarian/Datarian_실전반\|Datarian_실전반]]
-	- [[public/Course/Course_Datarian/Datarian_마스터반\|Datarian_마스터반]]
+	- [[public/Course/Course_Datarian/Course_Datarian_입문반/Datarian_입문반\|Datarian_입문반]]
+	- [[public/Course/Course_Datarian/Course_Datarian_실전반/Datarian_실전반\|Datarian_실전반]]
+	- [[public/Course/Course_Datarian/Course_Datarian_마스터반/Datarian_마스터반\|Datarian_마스터반]]
 
 - [Practice](https://solvesql.com/u/dc2e0968-e03b-4ae1-a10c-addddaefa87e/)
 	- [외부 대시보드](https://solvesql.com/u/dc2e0968-e03b-4ae1-a10c-addddaefa87e/) 

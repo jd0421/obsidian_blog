@@ -1,0 +1,49 @@
+---
+{"dg-publish":true,"permalink":"/public/course/course-datarian/course-datarian/datarian-practice/","created":"2025-08-29T15:43:26.939+09:00","updated":"2025-08-29T16:26:43.859+09:00"}
+---
+
+
+- Pracitce
+	- Datarian_입문반_모든 데이터 조회하기 / 완료
+	- Datarian_입문반_데이터 정렬하기 / 완료
+	- [[public/Course/Course_Datarian/Course_Datarian_입문반/Datarian_입문반_그룹 별 중복값이 있는지 확인하기\|Datarian_입문반_그룹 별 중복값이 있는지 확인하기]]
+	- [[public/Course/Course_Datarian/Course_Datarian_입문반/Datarian_입문반_우리 레스토랑에 온 부자 손님\|Datarian_입문반_우리 레스토랑에 온 부자 손님]]
+	- [[public/Course/Course_Datarian/Course_Datarian_입문반/Datarian_입문반_평점 높은 영화 찾기\|Datarian_입문반_평점 높은 영화 찾기]]
+	- [[public/Course/Course_Datarian/Course_Datarian_입문반/Datarian_입문반_한강 근처 따릉이 대여소 찾기\|Datarian_입문반_한강 근처 따릉이 대여소 찾기]] #IN
+		- [다중 컬럼 IN 사용](https://dololak.tistory.com/812)
+	- Datarian_입문반특정 컬럼만 조회하기 / 완료 
+	- Datarian_입문반역대 올림픽 출전자들의 나이 / 완료
+	- Datarian_입문반화이트 와인 도수와 퀄리티 / 완료
+	- [[public/Course/Course_Datarian/Course_Datarian_입문반/Datarian_입문반_여자 양궁 선수들의 BMI 지수 구하기\|Datarian_입문반_여자 양궁 선수들의 BMI 지수 구하기]] #POWER 
+	- [[public/Course/Course_Datarian/Course_Datarian_입문반/Datarian_입문반_이 펭귄의 성별은 무엇인가요\|Datarian_입문반_이 펭귄의 성별은 무엇인가요]]  #SUBQUERY 
+	- [[public/Course/Course_Datarian/Course_Datarian_입문반/Datarian_입문반_Catherine 감독의 영화\|Datarian_입문반_Catherine 감독의 영화]] #REGEXP #upper #lower 
+	- [[public/Course/Course_Datarian/Course_Datarian_입문반/Datarian_입문반_제목이 모음으로 시작하지 않는 단편 영화\|Datarian_입문반_제목이 모음으로 시작하지 않는 단편 영화]] #REGEXP 
+	- Datarian_입문반_소장 경로가 누락된 2005년 소장품 / 완료
+	- Datarian_입문반_어떤 종류의 강아지들의 등록 되었을까요 / 완료 
+	- Datarian_입문반_레스토랑의 영업일 / 완료
+	- [[public/Course/Course_Datarian/Course_Datarian_입문반/Datarian_입문반_영어로 볼 수 있는 장편 영화\|Datarian_입문반_영어로 볼 수 있는 장편 영화]] #lower #LIKE 
+	- [[public/Course/Course_Datarian/Course_Datarian_입문반/Datarian_입문반_파스텔과 크레용으로 그린 작품\|Datarian_입문반_파스텔과 크레용으로 그린 작품]] #lower #LIKE 
+	- Datarian_입문반_레드 와인 도수와 퀄리티 / 완료
+	- Datarian_입문반_보상 고객 목록입니다 / 완료
+	- [[public/Course/Course_Datarian/Course_Datarian_입문반/Datarian_입문반_한 번도 주문을 하지 않은 고객\|Datarian_입문반_한 번도 주문을 하지 않은 고객]] #SUBQUERY 
+	- [[public/Course/Course_Datarian/Course_Datarian_입문반/Datarian_입문반_식사 금액과 팁의 관계\|Datarian_입문반_식사 금액과 팁의 관계]] 
+		- 집계 함수 간에 바로 연산 가능
+	- [[public/Course/Course_Datarian/Course_Datarian_입문반/Datarian_입문반_RFM 분석 1단계, 고객 별 RFM 값 구해보기\|Datarian_입문반_RFM 분석 1단계, 고객 별 RFM 값 구해보기]] #RFM_Segmentation
+	- [[public/Course/Course_Datarian/RFM 분석 2단계, 고객 분류하기\|RFM 분석 2단계, 고객 분류하기]] #RFM_Segmentation 
+	- 김연아 선수가 출전한 올림픽 / 완료 
+	- [[public/Course/Course_Datarian/직속 상사 구하기\|직속 상사 구하기]] #JOIN 
+	- 135번 정류소에서 대여한 자전거 ID / 완료 
+	- 일요일 저녁 손님들의 식사 금액 / 완료 #FLOOR #CEIL 
+	- [[public/Course/Course_Datarian/싱가포르 고객의 주문 내역\|싱가포르 고객의 주문 내역]] #WITH
+	- [[public/Course/Course_Datarian/다음날도 서울숲의 미세먼지 농도는 나쁨\|다음날도 서울숲의 미세먼지 농도는 나쁨]]
+	- 팁 많이 준 고객들의 특징 / 완료
+	- 할부는 몇 개월로 해드릴까요 / 완료
+	- [[public/Course/Course_Datarian/RFM 분석 3단계, 떠나간 VIP\|RFM 분석 3단계, 떠나간 VIP]] #RFM_Segmentation 
+	- [[public/Course/Course_Datarian/지역별 주문의 특징\|지역별 주문의 특징]] #pivot_table
+	- [[public/Course/Course_Datarian/일주일 후 안내 메일 발송 건수 계산하기\|일주일 후 안내 메일 발송 건수 계산하기]]
+	- [[public/Course/Course_Datarian/Amy는 이 영화를 어디서 볼까\|Amy는 이 영화를 어디서 볼까]] https://www.kaggle.com/datasets/ruchi798/movies-on-netflix-prime-video-hulu-and-disney
+	- [[public/Course/Course_Datarian/바겐 세일\|바겐 세일]] [United States E-Commerce records 2020](https://www.kaggle.com/datasets/ammaraahmad/us-ecommerce-record-2020)
+	- [[public/Course/Course_Datarian/오스트리아 고객들의 환불 금액\|오스트리아 고객들의 환불 금액]] [E-commerce Business Transaction](https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business)
+	- [[public/Course/Course_Datarian/국가 별 판매 금액\|국가 별 판매 금액]]  [E-commerce Business Transaction](https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business)
+	- [[public/Course/Course_Datarian/가구 판매의 비중이 높았던 날 찾기\|가구 판매의 비중이 높았던 날 찾기]] [United States E-Commerce records 2020](https://www.kaggle.com/datasets/ammaraahmad/us-ecommerce-record-2020)
+	- [[public/Course/Course_Datarian/지역별 자전거 대여 현황\|지역별 자전거 대여 현황]]

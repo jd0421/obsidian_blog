@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/public/course/course-datarian/course-datarian/datarian/","created":"2025-08-29T12:42:22.590+09:00","updated":"2025-08-29T16:08:46.447+09:00"}
+---
+
+https://solvesql.com/problems/sex-of-penguins/

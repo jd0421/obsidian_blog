@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/public/course/course-datarian/course-datarian/datarian/","created":"2025-08-29T12:56:07.102+09:00","updated":"2025-08-29T16:08:46.495+09:00"}
+---
+
+https://solvesql.com/problems/artworks-with-pastel-crayon/
