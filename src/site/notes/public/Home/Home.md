@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/home/home/","tags":["gardenEntry"],"created":"2024-11-05T20:24:18.792+09:00","updated":"2025-08-29T17:21:54.544+09:00"}
+{"dg-publish":true,"permalink":"/public/home/home/","tags":["gardenEntry"],"created":"2024-11-05T20:24:18.792+09:00","updated":"2025-08-29T17:29:10.492+09:00"}
 ---
 
 - 다음의 규칙으로 정리
@@ -15,7 +15,15 @@
 - Profile
 	- [Github](https://github.com/jd0421/Project)
 	- [Tableau](https://public.tableau.com/app/profile/alex.noh6655/vizzes)
-		
+
+- Practice
+	- HackerRank
+	- leetcode
+	- [[public/Practice/Codeforces/Codeforces\|Codeforces]]
+
+- Course
+	- [[public/Course/Course_Datarian/Datarian\|Datarian]]
+
 
 - 순차적으로 정리 
 	- SQL
@@ -139,10 +147,3 @@
 	- Microsoft
 		- Teams
 	
-- Practice
-	- HackerRank
-	- leetcode
-	- [[public/Practice/Codeforces/Codeforces\|Codeforces]]
-
-- Course
-	- [[public/Course/Course_Datarian/Datarian\|Datarian]]
