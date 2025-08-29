@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/home/home/","tags":["gardenEntry"],"created":"2024-11-05T20:24:18.792+09:00","updated":"2025-08-26T12:59:15.458+09:00"}
+{"dg-publish":true,"permalink":"/public/home/home/","tags":["gardenEntry"],"created":"2024-11-05T20:24:18.792+09:00","updated":"2025-08-29T16:39:38.965+09:00"}
 ---
 
 - 다음의 규칙으로 정리
@@ -143,3 +143,6 @@
 	- HackerRank
 	- leetcode
 	- [[public/Practice/Codeforces/Codeforces\|Codeforces]]
+
+- Course
+	- [[public/Course/Course_Datarian/Datarian\|Datarian]]
