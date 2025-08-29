@@ -1,0 +1,26 @@
+---
+{"dg-publish":true,"permalink":"/public/course/course-datarian/datarian/","created":"2025-08-29T14:33:22.553+09:00","updated":"2025-08-29T16:08:46.665+09:00"}
+---
+
+https://solvesql.com/problems/characteristics-of-orders/
+
+
+```mysql
+select
+
+  region as `Region`
+
+  , count(distinct case when category = 'Furniture' then order_id end) as `Furniture`
+
+  , count(distinct case when category = 'Office Supplies' then order_id end) `Office Supplies`
+
+  , count(distinct case when category = 'Technology' then order_id end) `Technology`
+
+from records
+
+group by 1
+
+order by 1 asc
+
+;
+```

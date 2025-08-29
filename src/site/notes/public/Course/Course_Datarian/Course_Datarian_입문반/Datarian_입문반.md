@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/course/course-datarian/course-datarian/datarian/","tags":["SQL","MySQL"],"created":"2024-12-02T09:52:00.438+09:00","updated":"2025-08-29T15:58:14.437+09:00"}
+{"dg-publish":true,"permalink":"/public/course/course-datarian/course-datarian/datarian/","tags":["SQL","MySQL"],"created":"2024-12-02T09:52:00.438+09:00","updated":"2025-08-29T16:45:51.077+09:00"}
 ---
 
 - [미션가이드](https://datarian.io/player/content/1/lecture/1006) 
@@ -22,4 +22,3 @@
 	- 윈도우함수
 
 - [[public/Course/Course_Datarian/Course_Datarian_입문반/Datarian_입문반_Practice\|Datarian_입문반_Practice]]
-	- Datarian_입문반_

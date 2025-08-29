@@ -1,0 +1,35 @@
+---
+{"dg-publish":true,"permalink":"/public/course/course-datarian/datarian/","created":"2025-08-29T15:30:57.310+09:00","updated":"2025-08-29T16:08:46.721+09:00"}
+---
+
+
+https://solvesql.com/problems/day-of-furniture/
+
+집계 이후 filter 조건 2가지 적용
+
+
+```mysql
+select
+
+  order_date
+
+  -- , order_id
+
+  -- , category
+
+  , count(distinct case when category = 'Furniture' then order_id end) as `furniture`
+
+  , round(count(distinct case when category = 'Furniture' then order_id end) * 100.0 / count(distinct order_id), 2) as `furniture_pct`
+
+ from records
+
+group by 1
+
+having count(distinct order_id) >= 10
+
+  and round(count(distinct case when category = 'Furniture' then order_id end) * 100.0 / count(distinct order_id), 2) >= 40.0
+
+order by 3 desc, 1 ASC
+
+;
+```
