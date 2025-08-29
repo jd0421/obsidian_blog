@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/course/course-datarian/datarian/","tags":["Datarian"],"created":"2024-11-26T10:19:09.770+09:00","updated":"2025-08-29T16:08:45.558+09:00"}
+{"dg-publish":true,"permalink":"/public/course/course-datarian/datarian/","tags":["Datarian"],"created":"2024-11-26T10:19:09.770+09:00","updated":"2025-08-29T16:10:32.075+09:00"}
 ---
 
 - https://datarian.io/
@@ -7,10 +7,9 @@
 	- [[public/Course/Course_Datarian/Datarian_실전반\|Datarian_실전반]]
 	- [[public/Course/Course_Datarian/Datarian_마스터반\|Datarian_마스터반]]
 
-- Practice
-	- [solvedSQL](https://solvesql.com/u/dc2e0968-e03b-4ae1-a10c-addddaefa87e/)
-		- [외부 대시보드](https://solvesql.com/u/dc2e0968-e03b-4ae1-a10c-addddaefa87e/) 
-		- https://solvesql.com/collections/advent-of-sql-2024/
+- [Practice](https://solvesql.com/u/dc2e0968-e03b-4ae1-a10c-addddaefa87e/)
+	- [외부 대시보드](https://solvesql.com/u/dc2e0968-e03b-4ae1-a10c-addddaefa87e/) 
+	- https://solvesql.com/collections/advent-of-sql-2024/
 
 - tips
 	- Between
