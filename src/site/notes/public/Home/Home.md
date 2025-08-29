@@ -1,28 +1,28 @@
 ---
-{"dg-publish":true,"permalink":"/public/home/home/","tags":["gardenEntry"],"created":"2024-11-05T20:24:18.792+09:00","updated":"2025-08-21T12:22:00.645+09:00"}
+{"dg-publish":true,"permalink":"/public/home/home/","tags":["gardenEntry"],"created":"2024-11-05T20:24:18.792+09:00","updated":"2025-08-26T12:59:15.458+09:00"}
 ---
 
-# 다음의 규칙으로 정리
-- [[public/Obsidian/OBSIDIAN_PREFIX_SUFFIX\|OBSIDIAN_PREFIX_SUFFIX]]
+- 다음의 규칙으로 정리
+	- [[public/Obsidian/Obsidian_Prefix_Suffix\|Obsidian_Prefix_Suffix]]
 
-# Table of Contents
-- [[public/Analysis/Analysis\|Analysis]]
-- [[public/DBMS/DBMS\|DBMS]]
-- [[public/Blog/Blog\|Blog]]
-- [[public/Dev/Dev\|Dev]]
-- [[public/Dev/Data/Data\|DATA]]
+- Table of Contents
+	- [[public/Analysis/Analysis\|Analysis]]
+	- [[public/DBMS/DBMS\|DBMS]]
+	- [[public/Blog/Blog\|Blog]]
+	- [[public/Dev/Dev\|Dev]]
+	- [[public/Dev/Data/Data\|DATA]]
 
-# Profile
-- [Github](https://github.com/jd0421/Project)
-- [Tableau](https://public.tableau.com/app/profile/alex.noh6655/vizzes)
-	
+- Profile
+	- [Github](https://github.com/jd0421/Project)
+	- [Tableau](https://public.tableau.com/app/profile/alex.noh6655/vizzes)
+		
 
-# 순차적으로 정리 
-- SQL
-- Python
-- Tableau
-- PowerBI
-- Projects
+- 순차적으로 정리 
+	- SQL
+	- Python
+	- Tableau
+	- PowerBI
+	- Projects
 - 
 
 - What to do
@@ -36,6 +36,7 @@
 		- 
 	- 기계학습 모델링 도구
 		- [[public/Analysis/Python\|public/Analysis/Python]]
+			- 딥러닝 프레임워크(Pytorch, TensorFlow)
 			- TensorFlow
 			- Keras
 			- PyTorch
@@ -60,7 +61,6 @@
 - RAG
 
 
-```
 - 산업군
 	- EDA
 	- 분포에 대한 이해
@@ -78,21 +78,68 @@
 	- Cohort
 	- ABT 
 
-- 대시보딩, 시각화
+- BI Tools
 	- Power BI
 	- Tableau
 	- Spotfire
 	- LookerStudio
 	- Redash, Redshift 
 
-```
+
+- Skills
+	- Languages
+		- Java
+		- Kotlin
+		- Rust
+		- Go
+		- SAS
+		- R
+		- Python
+		- Objective-C
+		- Swift
+		- C++
+		- Javascript
+		- Typescript
+		- Scala
+	- Data
+		- HBase
+		- Kafka
+		- Kubeflow
+		- Tensorflow
+		- Pytorch
+		- Google BigQuery
+		- Google LookerStudio
+		- Tableau
+		- Airflow
+		- Grafana
+		- Prometheus
+		- Fluentd
+		- Spark
+		- Presto
+		- Superset
+		- Redash
+		- Zeppelin
+		- Hive
+		- Hadoop
+		- Kibana
+	- DataBase
+		- CassandraDB
+		- Redis
+		- MySQL
+		- ElasticSearch
+		- AWS AuroraDB
+		- AWS DynamoDB
+		- MongoDB
+- Co-op tools
+	- Atlassian
+		- Jira
+		- Trello
+		- Confluence
+	- Slack
+	- Microsoft
+		- Teams
 	
-
-
-```
-- 얻어 걸렸다 등 요행을 바라지 말기
-- 고성능 딜레마에 빠지지 말 것, 고점 저점을 두지 말기
-- 상황을 원망하지 말고 더 부족한건 없었는지 확인하기
-- 읽는 사람을 배려하기
-
-```
+- Practice
+	- HackerRank
+	- leetcode
+	- [[public/Practice/Codeforces/Codeforces\|Codeforces]]
